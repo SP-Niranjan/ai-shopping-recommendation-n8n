@@ -39,5 +39,4 @@ Import this into your N8N instance and configure:
 
 - `workflow/` → JSON file for N8N
 - `prompts/` → AI prompt used
-- `assets/` → Screenshots
-- `presentation/` → PPT file
+
